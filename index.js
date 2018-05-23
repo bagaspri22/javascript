@@ -6,8 +6,8 @@ const msg2 = "Coding";
 if(true){
   var message = "1";
   let msg1 = "2";
-  console.log("testing",msg1)
+  console.log("testing",message)
 }
 
-console.log(message)
 console.log(msg2)
+console.log(msg1)
